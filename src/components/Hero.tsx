@@ -22,7 +22,7 @@ const Hero = () => {
       </div>
 
       {/* Content */}
-      <div className="container relative z-10 px-4 pt-28 pb-5 md:py-32">
+      <div className="container relative z-10 px-4 pt-28 pb-60 md:py-32">
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-block mb-6 px-4 py-2 bg-accent/20 rounded-full backdrop-blur-sm border border-accent/30">
             <p className="text-accent-foreground font-medium text-sm">
